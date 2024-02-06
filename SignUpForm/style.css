@@ -111,3 +111,25 @@ html {
     color: #5a5454;
     margin-bottom: 2rem;
 }
+
+.input-group {
+    position: relative;
+}
+
+.input-group input {
+    width: 28rem;
+    height: 3rem;
+    padding: 1rem 1rem 1rem 3rem;
+    background-color: #ebebeb;
+    border: none;
+    border-radius: 0.5rem;
+}
+
+.input-group i {
+    position: absolute;
+    top: 50%;
+    left: 1rem;
+    transform: translateY(-50%);
+    font-size: 1.2rem;
+    color: #555;
+}
