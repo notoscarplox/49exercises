@@ -71,7 +71,7 @@ html {
 .green-bg {
     width: 100%;
     height: 100%;
-    background: linear-gradient(to right, #3ab19b, #4cbf91);
+    background: linear-gradient(to right, #643ab1, #592e84);
     position: absolute;
     top: 0;
     left: 0;
@@ -119,7 +119,7 @@ html {
 
 .signup-form h1 {
     font-size: 4rem;
-    color: #3aaf9f;
+    color: #592e84;
 }
 
 .social-media {
@@ -170,7 +170,7 @@ html {
 .signup-form button {
     width: 13rem;
     height: 3rem;
-    background-color: #3aaf9f;
+    background-color: #592e84;
     border: none;
     border-radius: 3rem;
     text-transform: uppercase;
